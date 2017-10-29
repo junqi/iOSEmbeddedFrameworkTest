@@ -7,9 +7,13 @@
 //
 
 import Foundation
+import FirebaseFirestore
 
 public class TestService {
     public static func hello() {
         print("== TestService::hello called ==")
+        let hoge: DocumentReference? = nil
+        print(hoge)
+        print("^^^ hoge ^^^")
     }
 }
