@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import FirebaseFirestore
+import Firestore
 
 public class TestService {
     public static func hello() {

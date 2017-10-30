@@ -213,11 +213,11 @@ Copyright 2017 Google
 
 Copyright 2017 Google
 
-## FirebaseFirestore
+## FirebaseInstanceID
 
 Copyright 2017 Google
 
-## FirebaseInstanceID
+## Firestore
 
 Copyright 2017 Google
 

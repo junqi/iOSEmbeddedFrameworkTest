@@ -260,7 +260,7 @@ Some files from Intel carry the following license:
 			<key>License</key>
 			<string>Copyright</string>
 			<key>Title</key>
-			<string>FirebaseFirestore</string>
+			<string>FirebaseInstanceID</string>
 			<key>Type</key>
 			<string>PSGroupSpecifier</string>
 		</dict>
@@ -270,7 +270,7 @@ Some files from Intel carry the following license:
 			<key>License</key>
 			<string>Copyright</string>
 			<key>Title</key>
-			<string>FirebaseInstanceID</string>
+			<string>Firestore</string>
 			<key>Type</key>
 			<string>PSGroupSpecifier</string>
 		</dict>
